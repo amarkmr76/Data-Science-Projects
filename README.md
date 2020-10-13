@@ -1,1 +1,1 @@
-Repository for self-projects in the field of Data Science
+**Repository for some of my Data Science projects.**
